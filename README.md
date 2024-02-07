@@ -55,3 +55,9 @@ cd <directory_name>
   - TextBlob: Python library for processing textual data.
   - HTML/CSS: Frontend development languages for building the user interface.
   - Fetch API: Used for making asynchronous HTTP requests to the server.
+
+## Screenshots
+
+<img align="center" width="900px" src="screenshot/positive.png">
+
+<img width="900px" src="screenshot/negative.png">
