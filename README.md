@@ -1,6 +1,6 @@
 # Sentiment Analysis Web App
 
-This is a simple web application built with Flask for sentiment analysis using TextBlob.
+This is a web application built with Flask for sentiment analysis using TextBlob.
 
 ## Installation
 
