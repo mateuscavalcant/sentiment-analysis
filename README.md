@@ -14,8 +14,8 @@ cd <directory_name>
 
 2 - Clone the repository:
 
-   ```bash
-   git clone <repository_URL>
+```bash
+git clone <repository_URL>
 ```
 
 
@@ -23,17 +23,15 @@ cd <directory_name>
 3 - Install dependencies:
 
 ```bash
-
-    pip install -r requirements.txt
-  ```
+pip install -r requirements.txt
+```
 
 ## Usage
 
   Run the Flask application:
 
   ```bash
-
-    python app.py
+  python app.py
   ```
 
   Access the web application in your browser at http://localhost:8765.
