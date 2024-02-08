@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, json
-from server.analysis import analyze_sentiment
+from api.analysis import analyze_sentiment
 
 
 app = Flask(__name__)
